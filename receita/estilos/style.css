@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-color: #60aaff; 
+    font-family: arial;
+    line-height: 1.5;
+    font-size: 20px;
+    color: white;
+} 
+/* Pré-definindo as características principais do texto todo, como a cor de fundo, fonte, espaçamento entre as linhas, cor do texto, tamanho da fonte e alinhamento. */
+h1 {
+    color: #ffffff;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #0f5bff;
+    margin: 2%;
+    border: 30px solid transparent;
+    font-size: 40px;
+    background-color: rgb(150, 215, 255);
+    border-radius: 50px;
+}
+/* Definindo as características referentes ao título do site, como a cor, negrito, tamanho e cor da borda do texto, borda maior e margem. */
+h2 {
+    color: #ffffff;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #0f5bff;
+    margin: 2%;
+    border: 30px solid transparent;
+    font-size: 40px;
+    background-color: rgb(150, 215, 255);
+    border-radius: 50px;
+}    
+/* Definindo as características dos subtítulos, como a cor, negrito, tamanho e cor da borda do texto, borda maior e margem. */
+img {
+    border-radius: 50px;
+    box-shadow: 10px 20px rgb(82, 128, 255);
+    border: 30px solid transparent;
+font-size: 40px;
+background-color: rgb(150, 215, 255);
+}
+/* Atribuindo características visuais à imagem, como a borda, sua cor, o tamanho do sombreamento e sua cor. */
+li {
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 25%;
+}
+/* Organização das listas, alinhando seu texto ao centro e ajustando a margem para que o texto pudesse ficar justificado e, ao mesmo tempo, no centro da tela. */
+p {
+    color:#ffffff;
+    font-size: 12px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    font-style: italic;
+}
+/* Atribuindo características à assinatura no fim do texto, indicando que eu que fiz essa página. Ajustei a cor do texto, o tamanho da fonte, margem superior e inferior e texto em itálico. */
